@@ -21,9 +21,7 @@ My portfolio is also available below.
 
 <!-- Botones con colores nuevos -->
 <p align="left">
-  <a href="mailto:pedrozarzumar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=D14836" />
-</a>
+
 
   <a href="https://www.linkedin.com/in/pedro-zarzuela-martin-b7b547339/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1F1F1F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
